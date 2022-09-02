@@ -1,6 +1,6 @@
 {
   "author" : "Cyan Sky Knight",
-  "description" : "This mod is for those using Make the Thaumoth a Cuter Yet Mothy Race and Armor Adapt. It patches Thaumoth to use standard size hats instead of the larger ones made for the default moth heads.",
+  "description" : "This mod is for those using Make the Thaumoth a Cuter Yet Mothy Race and Armor Adapt. It tells Armor Adapt to use standard, vanilla shaped hats for Thaumoth instead of the larger ones made for the base Saturnian mod's moth heads. Note that Armor Adapt support is included with the base Saturnians mod, so only use this mod if you are running a mod that makes Thaumoth more humanoid.",
   "friendlyName" : "Humanoid Thaumoth Patch for Armor Adapt",
   "requires" : ["saturnians"],
   "name" : "saturn2AAhuman",
